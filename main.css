@@ -1,0 +1,26 @@
+body {
+  
+}
+
+#faceholder {
+    text-align: center;
+    width: 60%;
+    height: 400px;
+    background: aliceblue;
+    border: 2px solid #666;
+    margin: auto;
+  }
+
+  #face {
+    margin: 100px;
+  }
+  
+  .buttons {
+    display: block;
+    margin: 150px auto;
+  }
+
+  button {
+    background-color: #6bbbe9;
+    border: 2px solid #6bbbe9
+  }
